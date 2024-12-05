@@ -17,7 +17,7 @@ It showcases the creation of a simple and responsive webpage displaying a collec
 - Design Principles: Using color, typography, and alignment effectively.  <br>
 
 <h2>  📂 File Structure  </h2>
-📁 Color Markers Project  
+📁 Color Markers Project  <br>
 ├── index.html   # The main HTML file containing the webpage structure.  <br>
 ├── styles.css   # The CSS file for styling and layout.  <br>
 └── README.md    # Project details and documentation.  <br>
